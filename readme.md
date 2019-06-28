@@ -1,8 +1,8 @@
-#Realtime Object Detection using tfjs-React
+# Realtime Object Detection using tfjs-React with Single Shot Detector
 
 
-## Detects object(water Bottle) in realtime webcam feed.
-### Using COCO-Single_Shot_Detector
+### Detects Object(water Bottle) in realtime webcam feed.
+#### Using COCO-Single Shot Detector
 
 
->Realtime demo [link](https://kcltb.codesandbox.io/)
+>Click this link for realtime demo [link](https://kcltb.codesandbox.io/)
